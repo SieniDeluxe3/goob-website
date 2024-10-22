@@ -7,8 +7,8 @@ The official GitHub repository for the goob Valorant team's website.
 - Peak rank: Bronze 3
 
 gooberar
-- Current rank: Gold 2
-- Peak rank: Gold 2
+- Current rank: Gold 3
+- Peak rank: Gold 3
 
 [xrsde](https://youtube.com/@xrsde)
 - Current rank: Silver 2
