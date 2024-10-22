@@ -10,7 +10,7 @@ gooberar
 - Current rank: Gold 2
 - Peak rank: Gold 2
 
-[msd](https://youtube.com/@msd2ss)
+[xrsde](https://youtube.com/@xrsde)
 - Current rank: Silver 2
 - Peak rank: Silver 3
 
