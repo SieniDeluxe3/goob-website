@@ -11,7 +11,7 @@ gooberar
 - Peak rank: Gold 3
 
 [xrsde](https://youtube.com/@xrsde)
-- Current rank: Silver 2
+- Current rank: Silver 3
 - Peak rank: Silver 3
 
 [SD3](https://youtube.com/@sd3roblox)
